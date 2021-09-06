@@ -5,9 +5,9 @@ PDFmu bisa bersuara
 ## Mobile Development
 
 ## Our Team
-Robby Firmansyah Ardha
-Fauzi Hidayat
-Mellania Permata
-Nurul Izza
-Hendrawan Pudjianto
+* [Robby Firmansyah Ardha]
+* [Fauzi Hidayat]
+* [Mellania Permata]
+* [Nurul Izza]
+* [Hendrawan Pudjianto]
 
