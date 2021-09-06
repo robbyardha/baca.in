@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bacain.app.MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_search"
+            android:layout_gravity="center"></ImageView>
+        <Button
+            android:id="@+id/main_btn_open_document"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_open_other"
+            android:background="@color/design_default_color_primary"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="35dp"/>
+    </LinearLayout>
+</FrameLayout>

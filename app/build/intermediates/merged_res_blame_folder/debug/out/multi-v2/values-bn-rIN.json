@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ROBBY\\AndroidStudioProjects\\pspdfkit-android-simple-example-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rIN\\values-bn-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ROBBY\\.gradle\\caches\\transforms-2\\files-2.1\\dc7c6f4c0b609c4a1c4ca6bb5ef0ef18\\AppIntro-6.1.0\\res\\values-bn-rIN\\values-bn-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,111,169,239,297",
+                        "endColumns": "55,57,69,57,61",
+                        "endOffsets": "106,164,234,292,354"
+                    }
+                }
+            ]
+        }
+    ]
+}

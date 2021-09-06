@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Baca.in</string>
+    <string name="main_open_example">Open example PDF</string>
+    <string name="main_open_other">Select Document</string>
+</resources>
