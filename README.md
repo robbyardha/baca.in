@@ -1,5 +1,5 @@
 # Baca.In
-
+![Logo](https://github.com/robbyardha/baca.in/app/src/main/assets/bacain.png?raw=true)
 <h1 align="center">BACA.IN</h1>
 <h2 align="center">"PDF audiobook for us"</h2>
 
