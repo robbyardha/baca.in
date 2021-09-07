@@ -9,6 +9,7 @@ apply plugin: 'com.android.application'
 // Versions for build targets and dependencies are imported from a separate file. This reduces the
 // overhead of updating versions, making it simpler and faster.
 apply from: '../versions.gradle'
+apply plugin: 'kotlin-android'
 
 repositories {
     google()
