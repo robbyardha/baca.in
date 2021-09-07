@@ -1,5 +1,7 @@
 # Baca.In
-![Logo](https://github.com/robbyardha/baca.in/app/src/main/assets/bacain.png?raw=true)
+<p align="center">
+<img src="https://i.ibb.co/NYtBZTh/bacain.png" align="center" height="150">
+</p>
 <h1 align="center">BACA.IN</h1>
 <h2 align="center">"PDF audiobook for us"</h2>
 
@@ -11,8 +13,14 @@
 
 
 ## Documentation
-![Earth](https://img.freepik.com/free-vector/woman-relaxing-home-girl-drinking-hot-tea-reading-book-armchair-flat-vector-illustration-leisure-evening-literature_74855-8684.jpg?size=626&ext=jpg)
 
+
+<p align="center">
+<img src="https://i.ibb.co/BsX3f4m/Poster.png" align="center" height="500">
+</p>
+
+<!-- ![Earth](https://img.freepik.com/free-vector/woman-relaxing-home-girl-drinking-hot-tea-reading-book-armchair-flat-vector-illustration-leisure-evening-literature_74855-8684.jpg?size=626&ext=jpg)
+ -->
 
 ## Our Team
 * Robby Firmansyah Ardha
