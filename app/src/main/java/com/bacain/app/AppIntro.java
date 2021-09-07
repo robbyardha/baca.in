@@ -27,7 +27,7 @@ public class AppIntro extends AppIntro2 {
                 R.font.lato
         ));
         addSlide(AppIntroFragment.newInstance(
-                "Gradients!",
+                "Set Your Fav PDF!",
                 "Pilih file PDF favoritmu “baca.in” akan mengkonversi text pdf menjadi suara yang bisa didengarkan kapanpun dan dimanapun",
                 R.drawable.ic_back_slide2,
                 R.drawable.ic_frame,
@@ -36,7 +36,7 @@ public class AppIntro extends AppIntro2 {
         ));
 
         addSlide(AppIntroFragment.newInstance(
-                "Simple, yet Customizable",
+                "Yuk gali ilmu dengan audio",
                 "Kini dengan “baca.in” kamu bisa menggali ilmu dan menambah wawasan, tanpa harus membaca hingga beratus-ratus halaman",
                 R.drawable.ic_back_slide3,
                 R.drawable.ic_frame,
