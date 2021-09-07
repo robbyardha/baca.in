@@ -23,6 +23,9 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.bacain.app.AppIntro"
+            android:exported="true" />
+        <activity
+            android:name="com.bacain.app.SplashActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

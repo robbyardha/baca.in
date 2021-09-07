@@ -2392,8 +2392,14 @@ drawable ic_appintro_indicator
 drawable ic_appintro_next
 drawable ic_appintro_ripple
 drawable ic_appintro_skip
+drawable ic_bacain
+drawable ic_back_slide1
+drawable ic_back_slide2
+drawable ic_back_slide3
 drawable ic_clock_black_24dp
 drawable ic_drawer_header
+drawable ic_file
+drawable ic_frame
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -2402,6 +2408,11 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search
+drawable ic_slide1
+drawable ic_slide2
+drawable ic_slide3
+drawable ic_slide4
+drawable ic_splash
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -3635,7 +3646,9 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_app_intro
+layout activity_app_intro_kot
 layout activity_main
+layout activity_splash
 layout appintro_fragment_intro
 layout appintro_intro_layout
 layout appintro_intro_layout2

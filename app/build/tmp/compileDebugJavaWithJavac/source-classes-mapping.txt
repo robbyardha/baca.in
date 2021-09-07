@@ -7,3 +7,6 @@ com/pspdfkit/app/BuildConfig.java
  com.pspdfkit.app.BuildConfig
 com/bacain/app/AppIntro.java
  com.bacain.app.AppIntro
+com/bacain/app/SplashActivity.java
+ com.bacain.app.SplashActivity
+ com.bacain.app.SplashActivity$1

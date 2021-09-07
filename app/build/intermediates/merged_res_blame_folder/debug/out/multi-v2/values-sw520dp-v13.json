@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ROBBY\\AndroidStudioProjects\\pspdfkit-android-simple-example-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw520dp-v13\\values-sw520dp-v13.xml",
+            "outputFile": "C:\\Users\\ROBBY\\AndroidStudioProjects\\baca.in\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw520dp-v13\\values-sw520dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ROBBY\\.gradle\\caches\\transforms-2\\files-2.1\\2ae2f8139647476d5599fbd2d21b2043\\pspdfkit-7.0.0\\res\\values-sw520dp-v13\\values-sw520dp-v13.xml",
+                    "source": "C:\\Users\\ROBBY\\.gradle\\caches\\transforms-2\\files-2.1\\45efcb89d37794d00e494dc75f4296fb\\pspdfkit-7.0.0\\res\\values-sw520dp-v13\\values-sw520dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ROBBY\\AndroidStudioProjects\\pspdfkit-android-simple-example-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\ROBBY\\AndroidStudioProjects\\baca.in\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ROBBY\\.gradle\\caches\\transforms-2\\files-2.1\\861238e74fc84cb071ff12612617f1c6\\appcompat-1.3.1\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\ROBBY\\.gradle\\caches\\transforms-2\\files-2.1\\d911607caa0e3c362c819d04b23fcde2\\appcompat-1.3.1\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

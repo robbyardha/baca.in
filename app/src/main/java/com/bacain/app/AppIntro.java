@@ -20,27 +20,29 @@ public class AppIntro extends AppIntro2 {
         super.onCreate(savedInstanceState);
         addSlide(AppIntroFragment.newInstance(
                 "Welcome!",
-                "This is a demo of the AppIntro library, using the second layout.",
-                R.drawable.back_slide1,
+                "Selamat datang di “baca.in”. aplikasi ini dapat membantumu untuk mendengarkan audiobook dari file PDF.",
+                R.drawable.ic_back_slide1,
+                R.drawable.ic_frame,
                 R.font.lato,
                 R.font.lato
         ));
-//        addSlide(AppIntroFragment.newInstance(SliderPage(
-//                "Gradients!",
-//                "This text is written on a gradient background",
-//                backgroundDrawable = R.drawable.back_slide2,
-//                titleTypeface = "OpenSans-Light.ttf",
-//                descriptionTypeface = "OpenSans-Light.ttf"
-//        )));
-//
-//        addSlide(AppIntroFragment.newInstance(
-//                "Simple, yet Customizable",
-//                "The library offers a lot of customization, while keeping it simple for those that like simple.",
-//                imageDrawable = R.drawable.ic_slide3,
-//                backgroundDrawable = R.drawable.back_slide3,
-//                titleTypefaceFontRes = R.font.opensans_regular,
-//                descriptionTypefaceFontRes = R.font.opensans_regular
-//        ));
+        addSlide(AppIntroFragment.newInstance(
+                "Gradients!",
+                "Pilih file PDF favoritmu “baca.in” akan mengkonversi text pdf menjadi suara yang bisa didengarkan kapanpun dan dimanapun",
+                R.drawable.ic_back_slide2,
+                R.drawable.ic_frame,
+                R.font.lato,
+                R.font.lato
+        ));
+
+        addSlide(AppIntroFragment.newInstance(
+                "Simple, yet Customizable",
+                "Kini dengan “baca.in” kamu bisa menggali ilmu dan menambah wawasan, tanpa harus membaca hingga beratus-ratus halaman",
+                R.drawable.ic_back_slide3,
+                R.drawable.ic_frame,
+                R.font.lato,
+                R.font.lato
+        ));
 //
 //        addSlide(AppIntroFragment.newInstance(
 //                "Explore",
